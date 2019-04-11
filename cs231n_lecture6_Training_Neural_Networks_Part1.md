@@ -114,7 +114,7 @@ reference:Batch Normalization: Accelerating Deep Network Training by Reducing In
 
 reference : https://www.cnblogs.com/guoyaohua/p/8724433.html
 
-深度神经网络, 随着网络深度加深，训练起来越困难，收敛越来越慢。** BN要解决的正是这个问题。
+深度神经网络, 随着网络深度加深，训练起来越困难，收敛越来越慢。 BN要解决的正是这个问题。
 
 简单的说，BN是用在哪里的？BN是用在全连接层之后，处理好全连接层输出的数据后，再输入到非线性激活函数中。
 

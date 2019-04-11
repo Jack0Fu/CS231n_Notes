@@ -34,7 +34,7 @@
 
 以下图为例，该图片NxN，卷积核FxF，移动步长stride,假设output size为x
 
-则$x=\frac{N-F}{stride}+1$ 
+则$x=\frac{N-F}{stride}+1$  
 
 ![1551840611131](assets/1551840611131.png)
 
@@ -60,7 +60,9 @@
 
 ## 2 CONV Layer
 
- ### 2.1 ![1551951737939](assets/1551951737939.png)
+ ### 2.1 The brain/neuron view of CONV Layer
+
+ ###  ![1551951737939](assets/1551951737939.png)
 
 ![1551951874746](assets/1551951874746.png)
 
